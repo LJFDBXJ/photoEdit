@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yalantis:sidemenu:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/470a2c028e2ffe9fd0c22d34f2e762e3/jetified-sidemenu-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/470a2c028e2ffe9fd0c22d34f2e762e3/jetified-sidemenu-1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yalantis/sidemenu/1.0/632c7e3f67a193c15d0bed8132e3f5d6970f6ace/sidemenu-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yalantis/sidemenu/1.0/3365fd6f9025fee945c16ace82e635081ff4da54/sidemenu-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
